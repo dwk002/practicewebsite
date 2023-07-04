@@ -12,3 +12,8 @@ input[type=text].mainsearchbar {
   margin-right: 16px;
   font-size: 17px;
 }
+
+p {
+    background: blue;
+    text-align: center;
+}
