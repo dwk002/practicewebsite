@@ -5,7 +5,7 @@ body {
   }
 
 input[type=text].mainsearchbar {
-    float: right;
+    float: center;
   padding: 6px;
   border: none;
   margin-top: 8px;
@@ -14,6 +14,6 @@ input[type=text].mainsearchbar {
 }
 
 p {
-    background: blue;
+    background-color: blue;
     text-align: center;
 }
